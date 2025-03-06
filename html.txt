@@ -10,6 +10,9 @@
 <p>Our website was created to make you unique</p>
 <p>FILE EDIT</p>
 <img src="Perfume-Atomizer.jpg" height='150px' width ='100 px'>
+<img src="Perfume-Atomizer.jpg" height='250px' width ='100 px'>
+<img src="Perfume-Atomizer.jpg" height='350px' width ='100 px'>
+<img src="Perfume-Atomizer.jpg" height='450px' width ='100 px'>
 <a href="https://instagram.com/parfum_m_ania?igshid=YmMyMTA2M2Y="</a>
 
 </body>
